@@ -1,0 +1,17 @@
+h1{
+    border:red dashed 3px;
+    margin: 30px 0;
+    padding: 30px;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(69, 68, 68);
+    color: white;
+    padding: 20px;
+}
+
+.produto-item{
+    color:rgb(246, 78, 78);
+    font-weight: bold;
+}
